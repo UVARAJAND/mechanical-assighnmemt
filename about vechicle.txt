@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABOUT VECHICLE</title>
+</head>
+<body>
+<h1 align="center" sytle="font-family:Algerian;color:aqua">	ABOUT ACTIVA 4G </h1>
+<p>The Honda Activa is a motor scooter made by Honda Motorcycle and Scooter India (HMSI). It was launched in India in May 1999. Production in Mexico began in 2004.[2] It is a 109/125 cc, 7 bhp (5.2 kW) scooter. The vehicle has the option of kick- and self-start.<p>
+</body>
+</html>
